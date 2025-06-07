@@ -60,8 +60,7 @@ This project is open source and available under the MIT License. (License)
 HUMA - Initial work
 
 **Contact**
-Email: [hamzahumaira41@gmail.com](mailto:hamzahumaira41@gmail.com)
+Email: hamzahumaira41@gmail.com
 [https://github.com/hamza-humaira]
-(https://github.com/hamza-humaira)
 
 
